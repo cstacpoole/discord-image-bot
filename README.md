@@ -2,7 +2,7 @@
 Simple Discord Bot to link images
 
 
-* Add the following to .env:
+* Add the following lines to .env: DISCORD_TOKEN, BOT_COMMAND
 * DISCORD_TOKEN - the bot key
 * BOT_COMMAND - the bot command - default to !image 
 
