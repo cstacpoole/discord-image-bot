@@ -2,7 +2,7 @@
   "name": "discord-image-bot",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "bot.js",
   "author": "Chris",
   "license": "ISC",
   "dependencies": {
