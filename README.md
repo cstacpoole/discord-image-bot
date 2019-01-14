@@ -9,3 +9,13 @@ Simple Discord Bot to link images
 
 * Add images to /images directory.
 * Run using node
+
+### To start server
+
+```bash
+# Install dependencies
+npm install
+
+# Start 
+npm start
+```
